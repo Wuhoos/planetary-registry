@@ -1217,6 +1217,13 @@
       "terrain": "flat",
       "population": "flat",
       "id": 61
+    },
+    {
+      "name": "earth",
+      "climate": "hot",
+      "terrain": "flat",
+      "population": "a lot",
+      "id": 62
     }
   ]
 }
